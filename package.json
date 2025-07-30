@@ -1,0 +1,12 @@
+{
+  "name": "upconstruction-1.0.0",
+  "version": "1.0.0",
+  "description": "Website for ec engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
